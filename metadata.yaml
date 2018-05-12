@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8182
     wikipedia: https://en.wikipedia.org/wiki/George_William_Thomson_Omond
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40931#The-Early-History-of-the-Scottish-Union-QuestionBi-Centenary-Edition
 gutenberg_issued: '2012-10-04'
 gutenberg_type: Text
 identifiers:
