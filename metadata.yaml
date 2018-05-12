@@ -1,0 +1,31 @@
+_repo: The-Early-History-of-the-Scottish-Union-QuestionBi-Centenary-Edition_40931
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40931-h/images/front_cover.jpg
+creator:
+  author:
+    agent_name: Omond, George W. T. (George William Thomson)
+    alias: Omond, G. W. T. (George William Thomson)
+    birthdate: 1846
+    deathdate: 1929
+    gutenberg_agent_id: '8182'
+    url: http://www.gutenberg.org/2009/agents/8182
+    wikipedia: https://en.wikipedia.org/wiki/George_William_Thomson_Omond
+description: ''
+gutenberg_issued: '2012-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40931'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scotland -- Foreign relations -- England'
+- !lcc 'DA'
+- !lcsh 'England -- Foreign relations -- Scotland'
+title: 'The Early History of the Scottish Union Question
+
+  Bi-Centenary Edition'
+url: http://www.gutenberg.org/ebooks/40931
